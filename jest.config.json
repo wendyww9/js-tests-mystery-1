@@ -1,0 +1,11 @@
+{
+  "clearMocks": true,
+  "collectCoverage": true,
+  "coverageDirectory": "coverage",
+  "coveragePathIgnorePatterns": [
+    "/node_modules/",
+    "/test/demo/",
+    "/src/demo/"
+  ],
+  "testEnvironment": "node"
+}
